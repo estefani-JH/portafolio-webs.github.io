@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(194, 162, 224);
+}
+.imagen-1{
+    width: 50px;
+    height: 50px;
+}
+.perfil{
+width: 200px;
+height: 200px;
+border-radius: 50px;
+
+}
+.seccion-presentacion{
+    text-align: center;
+    margin-top: 100px;
+}
+.imagen-2{
+    width: 280px;
+    height: 250px;
+    border-radius:20%;
+}
+.seccion-imagen{
+    text-align: center;
+    margin-top: 100px;
+     }
+.Conoce{
+    background-color: rgb(2, 2, 2);
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.desarrollo{
+color: aliceblue;
+background-color: black;
+
+}
+.columna{
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+
+
+}
+.columna:hover{
+    background-color: rgb(171, 221, 230);
+    color:blue;
+    transition: all 0.2s ease;
+}
+
+.contenedor-experiencia i{
+    font-size: 2.5em; 
+    border-radius: 50%;
+    background-color: black;
+    color: rgb(63, 181, 211);
+    padding: 8px 19px;
+    border-radius: 50% 
+     
+    
+}
+
+.seccion-proyectos{
+    text-align: center;
+}
